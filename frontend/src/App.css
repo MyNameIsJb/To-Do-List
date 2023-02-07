@@ -1,0 +1,9 @@
+a,
+li {
+  text-decoration: none;
+}
+
+.divandbutton {
+  display: flex;
+  justify-content: space-between;
+}
